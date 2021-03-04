@@ -220,7 +220,7 @@ img {
 
 .specialties {
   padding-top: var(--section-pt);
-  margin-bottom: 94px;
+  padding-bottom: var(--section-pb);
 }
 
 .specs-list {
@@ -340,8 +340,8 @@ img {
 /* ================ EXAMPLES ================*/
 
 .examples {
-  margin-top: var(--section-pt);
-  margin-bottom: var(--section-pb);
+  padding-top: var(--section-pt);
+  padding-bottom: var(--section-pb);
 }
 .examples-list {
   display: flex;
