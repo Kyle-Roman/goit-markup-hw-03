@@ -153,6 +153,10 @@ img {
   color: var(--logo-text-main);
 }
 
+.header-contacts {
+  margin-left: 331px;
+}
+
 .header-contact-link {
   color: var(--secondary-text-color);
 }
